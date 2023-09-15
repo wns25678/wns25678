@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wns25678)](https://solved.ac/wns25678)
 <!--
 **wns25678/wns25678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
